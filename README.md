@@ -218,7 +218,7 @@ Class distribution is perfectly balanced (132 / 132 / 132), so Accuracy and Kapp
 ## Author
 
 **Muhammad Bilal**
-BS Software Engineering, COMSATS University Islamabad
+BS Software Engineering, IQRA University Karchi
 GitHub: [github.com/bilalegl](https://github.com/bilalegl)
 LinkedIn: [linkedin.com/in/muhammad-bilal-13239625a](https://linkedin.com/in/muhammad-bilal-13239625a)
 
